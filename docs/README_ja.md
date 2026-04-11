@@ -68,7 +68,7 @@
 | :--- | :---: | :---: |
 | **Qwen 3.5** | ✅ リリース済み | 予定 |
 | **Qwen 3** | 予定 | 予定 |
-| **Llama3.2 (3B)** | ✅ 同梱済み | ✅ リリース済み |
+| **Llama3.2-R1 (3B)** | ✅ 同梱済み | ✅ リリース済み |
 | **Llama** (3.1 / 3.3) | 予定 | 予定 |
 | **Phi-4** | 予定 | 予定 |
 | **Gemma 4** | 予定 | 予定 |
@@ -87,7 +87,7 @@
 | **Qwopus3.5 (27B)** | SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |
 | **Qwen3.5 (9B)** | SFT | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwen3.5-9B-Neo-Kaggle.ipynb) |
 | **Qwopus3.5 (35B)** | SFT | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus-3.5-35B-A3B-Kaggle.ipynb) |
-| **Llama3.2 (3B)** | RL (GPRO) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Llama-3.2-3B-R1-Zero-GRPO.ipynb) |
+| **Llama3.2-R1 (3B)** | RL (GPRO) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Llama-3.2-3B-R1-Zero-GRPO.ipynb) |
 
 ---
 
