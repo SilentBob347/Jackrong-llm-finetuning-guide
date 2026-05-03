@@ -82,6 +82,12 @@
 
 ### 🌟 メインノートブック
 
+#### 🗄️ データセット準備 (Dataset Preparation)
+| 🤖 モデルアーキテクチャ | 🛠️ パイプライン | 🚀 クイックセットアップ |
+| :--- | :--- | :---: |
+| **Teacher model distill pipeline** | データ処理 | [![Python Code](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/data_processing_code/DeepSeek-v4-API-distill.ipynb) |
+
+#### 🏋️ モデルトレーニング (Model Training)
 | 🤖 モデルアーキテクチャ | 🛠️ パイプライン | 🚀 クイックセットアップ (1-Click 実行) |
 | :--- | :--- | :---: |
 | **Qwopus3.5 (27B)** | SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |

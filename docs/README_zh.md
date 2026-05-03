@@ -82,6 +82,12 @@
 
 ### 🌟 核心笔记本
 
+#### 🗄️ 数据集准备 (Dataset Preparation)
+| 🤖 模型架构 | 🛠️ 训练管道 | 🚀 快速启动 |
+| :--- | :--- | :---: |
+| **Teacher model distill pipeline** | 数据处理 | [![Python Code](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/data_processing_code/DeepSeek-v4-API-distill.ipynb) |
+
+#### 🏋️ 模型训练 (Model Training)
 | 🤖 模型架构 | 🛠️ 训练管道 | 🚀 快速启动 (一键运行) |
 | :--- | :--- | :---: |
 | **Qwopus3.5 (27B)** | SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |

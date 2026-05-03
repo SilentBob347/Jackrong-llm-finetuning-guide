@@ -82,6 +82,12 @@
 
 ### 🌟 메인 노트북
 
+#### 🗄️ 데이터셋 준비 (Dataset Preparation)
+| 🤖 모델 아키텍처 | 🛠️ 파이프라인 | 🚀 빠른 설정 |
+| :--- | :--- | :---: |
+| **Teacher model distill pipeline** | 데이터 처리 | [![Python Code](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/data_processing_code/DeepSeek-v4-API-distill.ipynb) |
+
+#### 🏋️ 모델 학습 (Model Training)
 | 🤖 모델 아키텍처 | 🛠️ 파이프라인 | 🚀 빠른 설정 (1-Click 실행) |
 | :--- | :--- | :---: |
 | **Qwopus3.5 (27B)** | SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |

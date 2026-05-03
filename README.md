@@ -82,6 +82,12 @@ Below are the interactive Kaggle and Colab notebooks, organized by model archite
 
 ### 🌟 Main Notebooks
 
+#### 🗄️ Dataset Preparation
+| 🤖 Model Architecture | 🛠️ Pipeline | 🚀 Quick Setup |
+| :--- | :--- | :---: |
+| **Teacher model distill pipeline** | Data Processing | [![Python Code](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/data_processing_code/DeepSeek-v4-API-distill.ipynb) |
+
+#### 🏋️ Model Training
 | 🤖 Model Architecture | 🛠️ Pipeline | 🚀 Quick Setup (1-Click Run) |
 | :--- | :--- | :---: |
 | **Qwopus3.5 (27B)** | SFT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R6410418/Jackrong-llm-finetuning-guide/blob/main/train_code/Qwopus3-5-27b-Colab.ipynb) |
@@ -97,9 +103,7 @@ For a detailed, step-by-step PDF walkthrough of the entire Qwopus 3.5 fine-tunin
 
 > [!TIP]
 > **🔗 [Download Complete Guide: Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus3-5-27b-Colab_complete_guide_to_llm_finetuning.pdf)**
->
-> **🔗 [Download Technical Report: Qwopus-GLM-18B-Technical-Report.pdf](https://github.com/R6410418/Jackrong-llm-finetuning-guide/blob/main/guidePDF/Qwopus-GLM-18B-Technical-Report.pdf)**
-> A concise technical report covering the Qwopus-GLM-18B model design, training rationale, and key implementation details.
+
 
 ---
 
